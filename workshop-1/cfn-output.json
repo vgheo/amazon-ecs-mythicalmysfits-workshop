@@ -1,0 +1,8 @@
+{
+  "Cloud9Env": "https://eu-west-1.console.aws.amazon.com/cloud9/ide/be7cce46ee6f42c5a7df02f00d00eab2?region=eu-west-1",
+  "LoadBalancerDNS": "alb-fargate-mysfyts-tutorial-2-2091950710.eu-west-1.elb.amazonaws.com",
+  "DynamoTable": "Table-fargate-mysfyts-tutorial-2",
+  "ProfileName": "fargate-mysfyts-tutorial-2-MythicalProfile-V956GZ9B3Y54",
+  "SiteBucket": "fargate-mysfyts-tutorial-2-mythicalbucket-1s2vk2idcy608",
+  "S3WebsiteURL": "http://fargate-mysfyts-tutorial-2-mythicalbucket-1s2vk2idcy608.s3-website-eu-west-1.amazonaws.com"
+}
